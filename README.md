@@ -1,6 +1,8 @@
 # CCNA-Project-2
-**Note: When opening this project; please check the DHCP dynamic ip of each end-nodes (PC's)
-**
+**Note: When opening this project; please check the DHCP dynamic ip of each end-nodes (PC's)**
+
+
+
 The protocols and techniques that have been used for this project are as follows:
 ===================================================================================
 
